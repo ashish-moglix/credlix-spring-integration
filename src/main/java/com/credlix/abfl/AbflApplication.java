@@ -4,6 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.integration.config.EnableIntegration;
 
+/**
+ * spring integration to intercept emails and attachments on outlook 365 account
+ */
 @EnableIntegration
 @SpringBootApplication
 public class AbflApplication {
@@ -13,4 +16,3 @@ public class AbflApplication {
 	}
 
 }
- 
