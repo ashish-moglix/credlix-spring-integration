@@ -12,6 +12,9 @@ import org.springframework.integration.config.EnableIntegration;
 public class AbflApplication {
 
 	public static void main(String[] args) {
+		/**
+		 * hotfix flow testing
+		 */
 		SpringApplication.run(AbflApplication.class, args);
 	}
 
