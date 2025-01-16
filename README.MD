@@ -8,3 +8,5 @@ gitflow:hotfix-finish - Merges a hotfix branch.
 gitflow:support-start - Starts a support branch from the production tag.
 gitflow:version-update - Updates version in release or support branch, optionally tagging and pushing it to the remote repository.
 gitflow:help - Displays help information.
+
+release 1.0.2
